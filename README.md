@@ -1,6 +1,6 @@
 # React / Counter-App
 
-This App is just for training on build **React App**
+This App is just training on build **React App**
 
 > Technologies :
 
